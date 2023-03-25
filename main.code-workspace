@@ -1,0 +1,21 @@
+{
+	"folders": [
+        {
+            "path": "."
+        }
+    ],
+	"settings": {
+		"files.associations": {
+            "*.embeddedhtml": "html",
+            "*.json": "jsonc",
+            "raylib.h": "c",
+            "math.h": "c",
+            "blocks.h": "c",
+            "stdio.h": "c",
+            "*.m": "c",
+            "system_error": "c",
+            "stdarg.h": "c",
+            "string.h": "c"
+        }
+	}
+}
