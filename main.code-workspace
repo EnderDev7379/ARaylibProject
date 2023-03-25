@@ -15,7 +15,8 @@
             "*.m": "c",
             "system_error": "c",
             "stdarg.h": "c",
-            "string.h": "c"
+            "string.h": "c",
+            "raymath.h": "c"
         }
 	}
 }
