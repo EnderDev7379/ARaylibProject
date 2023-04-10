@@ -4,11 +4,9 @@
 
 ### Added
 
-- Collidable objects
+- Collidable Objects
 - Powerups that increase maxRunMult
 - A fighting system
-- Enemies
-- A stealth system
 
 ### Fixed
 
